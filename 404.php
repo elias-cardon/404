@@ -15,8 +15,8 @@
         <h2>404</h2>
         <h4>Oups ! La page est introuvable</h4>
         <p>La page que vous cherchez n'existe pas. Vous avez peut-être mal écrit l'adresse ou la page a peut-être été
-        déplacée.</p>
-        <a href="https://laplateforme.io/">Retour vers l'acceuil</a>
+        supprimé.</p>
+        <a href="index.php">Retour vers l'acceuil</a>
     </div>
 </div>
 <script src="404.js"></script>
