@@ -32,9 +32,10 @@ body {
 }
 
 #container .content h2 {
-    font-size: 18vw;
+    font-size: 8vw;
     color: #fff;
     line-height: 1em;
+    margin-bottom: 20px;
 }
 
 #container .content h4 {

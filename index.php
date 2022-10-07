@@ -6,7 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Coming soon</title>
-	<link rel="shortcut icon" type="image/x-icon" href="LOGO-ENCART.png" />
+	<link rel="shortcut icon" type="image/x-icon" href="Logo_mini.png" />
 	<link rel="stylesheet" href="404.css">
 </head>
 <body>
