@@ -12,7 +12,7 @@
 <body>
 <div id="container">
     <div class="content">
-        <h2>Coming soon</h2>
+        <h2>Il arrive</h2>
         <h4>Ne vous inquiétez pas !</h4>
         <p>Le site est en cours de construction. Il est bientôt finit. Vous pouvez bientôt gâter vos amis à poils</p>
     </div>
